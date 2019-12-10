@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575813020093.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2158147999",
+    "id" : "97F794B",
+    "lastKnownWriteTime" : 1576008853,
+    "last_content_update" : 1576008853772,
+    "path" : "~/Documents/Projects/ts_fable/playground.R",
+    "project_path" : "playground.R",
+    "properties" : {
+        "cursorPosition" : "346,0",
+        "scrollLine" : "310",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
